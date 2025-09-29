@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hey there, I'm Nighitha T N</h1>
-<p align="center" style="color:#00BFFF; font-size:20px;"><b>🚀 I turn sequencing reads into stories 🧬💻</b></p>
+<p align="center" style="color:#00BFFF; font-size:20px;"><b>🧬 I turn sequencing reads into stories 💻</b></p>
 <p align="center"><em>Welcome aboard to my little corner of bioinformatics!</em></p>
 
 <p align="center"><em>Data Science | Artificial Intelligence | Bioinformatics | Machine Learning | NGS Data Analytics | Computational Biology</em></p>
