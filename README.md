@@ -69,7 +69,7 @@
 
 ## ✨ Quote I Live By  
 <p align="center">
-  <img src="https://img.shields.io/badge/%22Every%20data%20has%20a%20story%20to%20tell%2C%20and%20my%20role%20is%20to%20listen%2C%20analyze%2C%20and%20share%20it%20with%20clarity.%22-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%22Every%20data%20has%20a%20story%20to%20tell%2C%20and%20my%20role%20is%20to%20listen%2C%20analyze%2C%20and%20share%20it%20with%20clarity.%22-0077b6?style=for-the-badge" />
 </p>
 
 
