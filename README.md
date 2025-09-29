@@ -11,7 +11,7 @@
 
 ---
 
-## 🌸 About Me  
+## 🤓 About Me  
 - 🎓 **Master’s in Bioinformatics** with a focus on **NGS Data Analytics**.  
 - 🔬 Passionate about **decoding omics data** and building pipelines that bridge biology + computation.  
 - 🔍 Fascinated by how **large-scale biological data** can reveal hidden molecular patterns.  
