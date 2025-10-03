@@ -17,7 +17,7 @@
 - 🔍 Fascinated by how **large-scale biological data** can reveal hidden molecular patterns.  
 - 🧬 Skilled in **RNA-seq, DNA-seq, Variant Calling, scRNA-seq, WGS, DE analysis, and Pathway Enrichment**.  
 - 💡 Advocate for **reproducible pipelines** and **clear data visualization**.  
-- 📚 Currently exploring Data Science, Machine Learning & AI-driven Bioinformatics.  
+- 📚 Currently exploring **Data Science, Machine Learning & AI-driven Bioinformatics**.  
 
 
 ---
