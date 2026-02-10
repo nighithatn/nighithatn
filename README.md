@@ -1,5 +1,5 @@
 <!-- Animated High-Contrast Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi!%20I'm%20Nighitha%20T%20N&fontSize=44&fontColor=ffffff&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&height=200&section=header&text=Hi!%20I'm%20Nighitha%20T%20N&fontSize=44&fontColor=0F172A&fontAlignY=38" />
 
 <hr style="border:0.5px solid #30363D">
 
