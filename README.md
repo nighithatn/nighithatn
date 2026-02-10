@@ -25,7 +25,7 @@ Turning+data+into+actionable+insights+🚀" />
 </p>
 
 <p align="center" style="font-size:16px; color:#C9D1D9;">
-  <em>Welcome aboard 🚀 to my corner of Data Science & AI! ✨</em>
+  <em>Welcome aboard 🚀 to my little corner of Data Science & AI! ✨</em>
 </p>
 
 ---
