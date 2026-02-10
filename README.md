@@ -1,13 +1,15 @@
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Nighitha%20T%20N&fontSize=40&fontAlignY=35" />
+<!-- Animated High-Contrast Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi!%20I'm%20Nighitha%20T%20N&fontSize=44&fontColor=ffffff&fontAlignY=38" />
 
-<!-- Animated Text -->
+<hr style="border:0.5px solid #30363D">
+
+<!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code&
-size=24&
+size=26&
 pause=1000&
-color=00BFFF&
+color=58A6FF&
 center=true&
 vCenter=true&
 width=900&
@@ -18,8 +20,13 @@ Bioinformatics+%7C+NGS+Data+Analytics;
 Turning+data+into+actionable+insights+🚀" />
 </p>
 
-<p align="center"><b>🧬💻 Every dataset speaks — I listen carefully and turn signals into insight.</b></p>
-<p align="center"><em>Welcome aboard 🚀 to my corner of Data Science, AI, and Analytics ✨</em></p>
+<p align="center" style="font-size:18px; color:#E6EDF3;">
+  <b>🧬💻 Every dataset speaks — I transform signals into insight.</b>
+</p>
+
+<p align="center" style="font-size:16px; color:#C9D1D9;">
+  <em>Welcome aboard 🚀 to my corner of Data Science & AI! ✨</em>
+</p>
 
 ---
 
@@ -32,7 +39,7 @@ Turning+data+into+actionable+insights+🚀" />
 - 🧠 Experienced in applying **data science techniques** to biological and business datasets  
 - 🧬 Solid foundation in **RNA-seq, NGS pipelines, DE analysis & pathway enrichment**  
 - 🔁 Advocate for **reproducible workflows, explainable AI & clear visual storytelling**  
-- 🌍 Actively preparing for **industry-ready roles in Data Science, AI & Analytics**
+- 🌍 Preparing for **industry-ready roles in Data Science, AI & Analytics**
 
 ---
 
