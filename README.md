@@ -24,12 +24,6 @@ Turning+data+into+actionable+insights+🚀" />
   <b>🧬💻 Every dataset speaks — I transform signals into insight.</b>
 </p>
 
-<p align="center" style="font-size:16px; color:#C9D1D9;">
-  <em>Welcome aboard 🚀 to my little corner of Data Science & AI! ✨</em>
-</p>
-
----
-
 ## 🤓 About Me  
 
 - 📜 Diploma holder in **Data Science & Artificial Intelligence**  
